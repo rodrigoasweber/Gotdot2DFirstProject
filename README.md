@@ -1,6 +1,6 @@
 # Gotdot2DFirstProject  
 Primeiro projeto em Godot!  
 
-
-Esse jogo foi construindo seguindo o tutorial disponível em: https://www.youtube.com/watch?v=LOhfqjmasi0  
-A arte utilizada está disponível para download na descrição do vídeo de tutorial.
+Assets provided by: https://brackeysgames.itch.io/brackeys-platformer-bundle  
+All the art credits to: https://brackeysgames.itch.io/  
+This game was developed following the instructions at this video: https://www.youtube.com/watch?v=LOhfqjmasi0
